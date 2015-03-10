@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LabelAndEntry/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="LabelAndEntry/LoginPage.xaml" Line="1" Column="1" />
+      <File FileName="LabelAndEntry/App.cs" Line="1" Column="1" />
+      <File FileName="Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="LabelAndEntry/LoginPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/keith/Projects/InfiniteSkills/Mono/LabelAndEntry/LabelAndEntry/LoginPage.xaml.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

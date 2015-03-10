@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 1\HelloWorld\Android\bin\Debug\HelloWorld.Android.dll
+D:\Android -c#\Chapter 1\HelloWorld\Android\bin\Debug\HelloWorld.Android.pdb
+D:\Android -c#\Chapter 1\HelloWorld\Android\bin\Debug\HelloWorld.Android.dll.mdb
+D:\Android -c#\Chapter 1\HelloWorld\Android\bin\Debug\HelloWorld.Android.apk
+D:\Android -c#\Chapter 1\HelloWorld\Android\bin\Debug\HelloWorld.Android-Signed.apk
+D:\Android -c#\Chapter 1\HelloWorld\Android\obj\Debug\HelloWorld.Android.dll
+D:\Android -c#\Chapter 1\HelloWorld\Android\obj\Debug\HelloWorld.Android.pdb
+D:\Android -c#\Chapter 1\HelloWorld\Android\obj\Debug\android\bin\HelloWorld.Android.apk
+D:\Android -c#\Chapter 1\HelloWorld\Android\obj\Debug\R.cs.flag
+D:\Android -c#\Chapter 1\HelloWorld\Android\obj\Debug\uploadflags.txt

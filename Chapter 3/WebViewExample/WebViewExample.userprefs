@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="WebViewExample\WebViewExample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Android\MainActivity.cs">
+    <Files>
+      <File FileName="WebViewExample\WebViewPage.cs" Line="6" Column="6" />
+      <File FileName="Android\MainActivity.cs" Line="38" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

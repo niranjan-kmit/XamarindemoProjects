@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="ListViewExample\ListViewExample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewExample\ListViewPage.cs">
+    <Files>
+      <File FileName="ListViewExample\ListViewPage.cs" Line="25" Column="25" />
+      <File FileName="Android\MainActivity.cs" Line="3" Column="3" />
+      <File FileName="ListViewExample\App.cs" Line="18" Column="18" />
+      <File FileName="Android\Properties\AndroidManifest.xml" Line="2" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

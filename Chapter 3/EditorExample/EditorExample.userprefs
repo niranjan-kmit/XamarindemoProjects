@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="EditorExample\EditorExample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EditorExample\Person.xaml.cs">
+    <Files>
+      <File FileName="EditorExample\Person.xaml" Line="2" Column="2" />
+      <File FileName="EditorExample\App.cs" Line="24" Column="24" />
+      <File FileName="EditorExample\Person.xaml.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

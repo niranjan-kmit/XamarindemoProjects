@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="MasterDetailExample\MasterDetailExample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailExample\MasterDetail.cs">
+    <Files>
+      <File FileName="MasterDetailExample\MasterDetail.cs" Line="28" Column="28" />
+      <File FileName="MasterDetailExample\ProductDetailPage.xaml" Line="10" Column="10" />
+      <File FileName="MasterDetailExample\ProductDetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Android\MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

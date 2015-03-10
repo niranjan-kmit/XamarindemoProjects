@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\MapExample.dll
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\MapExample.pdb
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\Xamarin.Forms.Maps.dll
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 3\MapExample\MapExample\bin\Debug\Xamarin.Forms.Maps.xml
+D:\Android -c#\Chapter 3\MapExample\MapExample\obj\Debug\MapExample.dll
+D:\Android -c#\Chapter 3\MapExample\MapExample\obj\Debug\MapExample.pdb

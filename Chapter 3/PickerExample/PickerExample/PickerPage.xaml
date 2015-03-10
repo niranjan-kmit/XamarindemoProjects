@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="PickerExample.PickerPage"
+Padding="10,40,10,10" >
+	<ContentPage.Content>
+		<StackLayout>
+			<Label Text="Reservation Date" Font="Bold, Large" ></Label>
+			<DatePicker x:Name="dtPicker" Format="dd-MMM-yyyy" DateSelected="dtPickerDateSelected" ></DatePicker>
+			<Label Text="Pickup Time" Font="Bold, Large" ></Label>
+			<TimePicker x:Name="tiPicker" Format="hh:mm tt" ></TimePicker>
+			<Button Text="Submit" Clicked="btnSubmitClicked"></Button>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

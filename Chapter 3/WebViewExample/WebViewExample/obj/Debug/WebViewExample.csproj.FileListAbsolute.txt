@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\bin\Debug\WebViewExample.dll
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\bin\Debug\WebViewExample.pdb
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\obj\Debug\WebViewExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\obj\Debug\WebViewExample.dll
+D:\Android -c#\Chapter 3\WebViewExample\WebViewExample\obj\Debug\WebViewExample.pdb

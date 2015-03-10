@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="CarouselPageExample\CarouselPageExample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarouselPageExample\Carousel.cs">
+    <Files>
+      <File FileName="CarouselPageExample\Carousel.cs" Line="2" Column="2" />
+      <File FileName="CarouselPageExample\ContentPage1.xaml" Line="1" Column="1" />
+      <File FileName="CarouselPageExample\ContentPage2.xaml" Line="1" Column="1" />
+      <File FileName="CarouselPageExample\ContentPage2.xaml.cs" Line="3" Column="3" />
+      <File FileName="CarouselPageExample\ContentPage3.xaml" Line="1" Column="1" />
+      <File FileName="CarouselPageExample\ContentPage1.xaml.cs" Line="1" Column="1" />
+      <File FileName="CarouselPageExample\ContentPage3.xaml.cs" Line="1" Column="1" />
+      <File FileName="CarouselPageExample\App.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

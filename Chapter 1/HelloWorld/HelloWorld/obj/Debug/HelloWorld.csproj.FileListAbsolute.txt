@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+D:\Android -c#\Chapter 1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

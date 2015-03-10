@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ButtonExample.LoginPage"
+Padding="10,40,10,10">
+	<ContentPage.Content>
+		<StackLayout>
+			<Label Text="Username" TextColor = "Navy" Font="bold, Large"></Label>
+			<Entry x:Name="txtUsername" Placeholder="Please enter username" ></Entry>
+			<Label Text="Password" TextColor = "Navy" Font="bold, Large"></Label>
+			<Entry x:Name="txtPassword" Placeholder="Please enter password" IsPassword="true" TextChanged="txtPasswordChanged" ></Entry>
+			<StackLayout Orientation="Horizontal">
+				<Button x:Name="btnLogin" Text="Login" Clicked="btnLoginClicked"></Button>
+				<Button x:Name="btnCancel" Text="Cancel" Clicked="btnCancelClicked"></Button>
+			</StackLayout>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

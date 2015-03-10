@@ -1,0 +1,12 @@
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\PhotoPickerExample.dll
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\PhotoPickerExample.pdb
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\ExifLib.dll
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\Xamarin.Forms.Labs.dll
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\bin\Debug\Xamarin.Forms.Labs.xml
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\obj\Debug\PhotoPickerExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\obj\Debug\PhotoPickerExample.dll
+D:\Android -c#\Chapter 8\PhotoPickerExample\PhotoPickerExample\obj\Debug\PhotoPickerExample.pdb

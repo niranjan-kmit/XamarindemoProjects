@@ -1,0 +1,17 @@
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\obj\Debug\JsonWriteExample.csproj.App.config
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\obj\Debug\JsonWriteExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\JsonWriteExample.dll.config
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\JsonWriteExample.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\JsonWriteExample.pdb
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\Newtonsoft.Json.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\System.Net.Http.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\System.Net.Http.Extensions.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\System.Net.Http.Primitives.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\Newtonsoft.Json.xml
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\bin\Debug\System.Net.Http.xml
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\obj\Debug\JsonWriteExample.dll
+D:\Android -c#\Chapter 7\JsonWriteExample\JsonWriteExample\obj\Debug\JsonWriteExample.pdb

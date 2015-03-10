@@ -1,0 +1,17 @@
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\JsonReadExample.dll.config
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\JsonReadExample.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\JsonReadExample.pdb
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\Newtonsoft.Json.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\System.Net.Http.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\System.Net.Http.Extensions.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\System.Net.Http.Primitives.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\System.Net.Http.xml
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\bin\Debug\Newtonsoft.Json.xml
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\obj\Debug\JsonReadExample.csproj.App.config
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\obj\Debug\JsonReadExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\obj\Debug\JsonReadExample.dll
+D:\Android -c#\Chapter 7\JsonReadExample\JsonReadExample\obj\Debug\JsonReadExample.pdb

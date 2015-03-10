@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\bin\Debug\DatabaseAccessExample.dll
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\bin\Debug\DatabaseAccessExample.pdb
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\bin\Debug\SQLite.Net.dll
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\obj\Debug\DatabaseAccessExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\obj\Debug\DatabaseAccessExample.dll
+D:\Android -c#\Chapter 6\DatabaseDeleteWriteExample\DatabaseAccessExample\obj\Debug\DatabaseAccessExample.pdb

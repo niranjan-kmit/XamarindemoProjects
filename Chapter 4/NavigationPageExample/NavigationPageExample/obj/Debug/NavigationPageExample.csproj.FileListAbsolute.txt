@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\bin\Debug\NavigationPageExample.dll
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\bin\Debug\NavigationPageExample.pdb
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\obj\Debug\NavigationPageExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\obj\Debug\NavigationPageExample.dll
+D:\Android -c#\Chapter 4\NavigationPageExample\NavigationPageExample\obj\Debug\NavigationPageExample.pdb

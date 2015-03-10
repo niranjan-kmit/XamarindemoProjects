@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\obj\Debug\Person.xaml.g.cs
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\bin\Debug\EditorExample.dll
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\bin\Debug\EditorExample.pdb
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\obj\Debug\EditorExample.dll
+D:\Android -c#\Chapter 3\EditorExample\EditorExample\obj\Debug\EditorExample.pdb

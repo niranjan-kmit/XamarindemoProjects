@@ -1,0 +1,12 @@
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\bin\Debug\CarouselPageExample.dll
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\bin\Debug\CarouselPageExample.pdb
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\obj\Debug\CarouselPageExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\obj\Debug\ContentPage2.xaml.g.cs
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\obj\Debug\ContentPage1.xaml.g.cs
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\obj\Debug\ContentPage3.xaml.g.cs
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\obj\Debug\CarouselPageExample.dll
+D:\Android -c#\Chapter 4\CarouselPageExample\CarouselPageExample\obj\Debug\CarouselPageExample.pdb

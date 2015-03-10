@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\bin\Debug\SearchBarExample.dll
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\bin\Debug\SearchBarExample.pdb
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\obj\Debug\SearchBarExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\obj\Debug\SearchBarExample.dll
+D:\Android -c#\Chapter 3\SearchBarExample\SearchBarExample\obj\Debug\SearchBarExample.pdb

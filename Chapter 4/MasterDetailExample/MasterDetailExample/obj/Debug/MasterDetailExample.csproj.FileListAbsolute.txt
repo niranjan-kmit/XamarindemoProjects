@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\obj\Debug\MasterDetailExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\obj\Debug\ProductDetailPage.xaml.g.cs
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\bin\Debug\MasterDetailExample.dll
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\bin\Debug\MasterDetailExample.pdb
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\obj\Debug\MasterDetailExample.dll
+D:\Android -c#\Chapter 4\MasterDetailExample\MasterDetailExample\obj\Debug\MasterDetailExample.pdb

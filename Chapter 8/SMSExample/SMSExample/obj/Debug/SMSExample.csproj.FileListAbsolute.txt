@@ -1,0 +1,11 @@
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\SMSExample.dll
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\SMSExample.pdb
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\ExifLib.dll
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\Xamarin.Forms.Labs.dll
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\Xamarin.Forms.Labs.xml
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\obj\Debug\SMSExample.dll
+D:\Android -c#\Chapter 8\SMSExample\SMSExample\obj\Debug\SMSExample.pdb

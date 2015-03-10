@@ -1,0 +1,4 @@
+D:\Android -c#\Chapter 7\JsonService\JsonService\bin\JsonService.dll
+D:\Android -c#\Chapter 7\JsonService\JsonService\bin\JsonService.pdb
+D:\Android -c#\Chapter 7\JsonService\JsonService\obj\Debug\JsonService.dll
+D:\Android -c#\Chapter 7\JsonService\JsonService\obj\Debug\JsonService.pdb

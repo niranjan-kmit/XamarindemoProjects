@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DatabaseAccessExample\DatabaseAccessExample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseAccessExample\DatabasePage.cs">
+    <Files>
+      <File FileName="DatabaseAccessExample\DatabasePage.cs" Line="21" Column="21" />
+      <File FileName="Android\SQLiteAndroid.cs" Line="3" Column="3" />
+      <File FileName="DatabaseAccessExample\App.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

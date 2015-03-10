@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\bin\Debug\TableViewExample.dll
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\bin\Debug\TableViewExample.pdb
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\obj\Debug\TableViewExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\obj\Debug\TableViewExample.dll
+D:\Android -c#\Chapter 5\EntryCellExample\TableViewExample\obj\Debug\TableViewExample.pdb

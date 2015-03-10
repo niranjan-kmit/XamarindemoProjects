@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="TableViewExample\TableViewExample.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TableViewExample\TableViewPage.cs">
+    <Files>
+      <File FileName="TableViewExample\TableViewPage.cs" Line="4" Column="4" />
+      <File FileName="Android\MainActivity.cs" Line="51" Column="51" />
+      <File FileName="TableViewExample\App.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

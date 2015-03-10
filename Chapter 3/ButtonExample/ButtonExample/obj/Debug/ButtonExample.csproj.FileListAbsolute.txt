@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\bin\Debug\ButtonExample.dll
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\bin\Debug\ButtonExample.pdb
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\obj\Debug\LoginPage.xaml.g.cs
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\obj\Debug\ButtonExample.dll
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\obj\Debug\ButtonExample.pdb
+D:\Android -c#\Chapter 3\ButtonExample\ButtonExample\obj\Debug\ButtonExample.csprojResolveAssemblyReference.cache

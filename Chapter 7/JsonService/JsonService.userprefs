@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="JsonService\JsonService.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="ChromeHTML" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonService\IEntitiesModelService.cs">
+    <Files>
+      <File FileName="JsonService\JsonDto\ContactJson.cs" Line="1" Column="1" />
+      <File FileName="JsonService\EntitiesModelService.svc" Line="1" Column="1" />
+      <File FileName="JsonService\IEntitiesModelService.cs" Line="1" Column="1" />
+      <File FileName="JsonService\Web.config" Line="1" Column="1" />
+      <File FileName="JsonService\Web.Debug.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

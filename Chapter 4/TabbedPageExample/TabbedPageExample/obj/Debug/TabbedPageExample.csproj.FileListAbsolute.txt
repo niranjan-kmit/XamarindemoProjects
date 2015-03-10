@@ -1,0 +1,13 @@
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\bin\Debug\TabbedPageExample.dll
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\bin\Debug\TabbedPageExample.pdb
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\obj\Debug\TabbedPageExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\obj\Debug\TabbedPageExample.Properties.Resources.resources
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\obj\Debug\TabbedPageExample.csproj.GenerateResource.Cache
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\obj\Debug\ContentPage1.xaml.g.cs
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\obj\Debug\ContentPage2.xaml.g.cs
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\obj\Debug\TabbedPageExample.dll
+D:\Android -c#\Chapter 4\TabbedPageExample\TabbedPageExample\obj\Debug\TabbedPageExample.pdb

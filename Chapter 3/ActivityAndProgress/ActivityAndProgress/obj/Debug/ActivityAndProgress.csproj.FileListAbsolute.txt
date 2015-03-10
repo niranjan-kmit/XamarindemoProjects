@@ -1,0 +1,9 @@
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\bin\Debug\ActivityAndProgress.dll
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\bin\Debug\ActivityAndProgress.pdb
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\obj\Debug\ActivityAndProgress.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\obj\Debug\ActivityAndProgress.dll
+D:\Android -c#\Chapter 3\ActivityAndProgress\ActivityAndProgress\obj\Debug\ActivityAndProgress.pdb

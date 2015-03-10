@@ -1,0 +1,10 @@
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\bin\Debug\ImageExample.dll
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\bin\Debug\ImageExample.pdb
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\obj\Debug\ImageExample.csprojResolveAssemblyReference.cache
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\obj\Debug\ImagePage.xaml.g.cs
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\obj\Debug\ImageExample.dll
+D:\Android -c#\Chapter 3\ImageExample\ImageExample\obj\Debug\ImageExample.pdb
